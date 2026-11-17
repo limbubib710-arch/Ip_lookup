@@ -52,6 +52,8 @@ $ cd Ip_lookup
 $ pip install requests phonenumbers
 
 
+$ python lookup.py
+
 
 🚀 Run
 
