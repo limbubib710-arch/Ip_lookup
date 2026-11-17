@@ -34,10 +34,15 @@ Features depend on the implementation and availability of external services.
 Termux
 
 $ pkg update -y
+
 $ pkg upgrade -y
+
 $ pkg install python git -y
+
 $ https://github.com/limbubib710-arch/Ip_lookup.git
+
 $ cd Ip_lookup
+
 $ pip install requests phonenumbers
 
 🚀 Run
