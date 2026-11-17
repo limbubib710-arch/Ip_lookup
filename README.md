@@ -44,7 +44,7 @@ $ pkg install python git -y
 
 
 
-$ https://github.com/limbubib710-arch/Ip_lookup.git
+$ git clone https://github.com/limbubib710-arch/Ip_lookup.git
 
 $ cd Ip_lookup
 
